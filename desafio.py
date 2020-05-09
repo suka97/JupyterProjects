@@ -19,9 +19,9 @@ N = m.log( (pow(10, alpha_min/10) - 1) / epsilon_cuad ) / (2 * m.log(ws))   # de
 
 # analizo lo obtenido
 if ( N > 2 ):
-    print("Si se puede realizar con una sola sección de segundo orden")
-else:
     print("No se puede realizar con una sola sección de segundo orden")
+else:
+    print("Si se puede realizar con una sola sección de segundo orden")
 
 ###############################################################
 
