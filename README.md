@@ -1,1 +1,3 @@
-# jupytest
+# JupyterProjects
+
+Projects developed for academic purposes.
